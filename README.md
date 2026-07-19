@@ -1,15 +1,10 @@
----
-title: Transformation Roadmap Generator
-emoji: 🗺️
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # Transformation Roadmap Generator
 
 AI-powered transformation roadmaps across ERP/SAP, CRM/Salesforce, and Tech Enablement — tailored by sector, focus, and maturity level.
+
+# Live  Demo
+
+https://transformation-roadmap-v2-hxj4dnhp3gu2u6gljwazzh.streamlit.app/
 
 ## Features
 - 🔷 **ERP / SAP Roadmap** — S/4HANA migration, finance transformation, phased implementation
